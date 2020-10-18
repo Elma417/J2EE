@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Test">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Test</output-path>
+    <root id="root">
+      <element id="module-output" name="j2ee" />
+    </root>
+  </artifact>
+</component>
